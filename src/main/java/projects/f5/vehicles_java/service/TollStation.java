@@ -5,7 +5,7 @@ import java.util.ArrayList;
 
 import projects.f5.vehicles_java.models.Vehicle;
 
-class TollStation {
+public class TollStation {
     private String name;
     private String city;
     private int totalCollected;

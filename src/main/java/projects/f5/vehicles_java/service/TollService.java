@@ -2,7 +2,7 @@ package projects.f5.vehicles_java.service;
 
 import projects.f5.vehicles_java.models.Vehicle;
 
-class TollService {
+public class TollService {
     private TollStation tollStation;
 
     public TollService(TollStation tollStation) {
