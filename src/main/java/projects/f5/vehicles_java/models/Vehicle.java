@@ -1,6 +1,6 @@
 package projects.f5.vehicles_java.models;
 
-abstract class Vehicle {
+public abstract class Vehicle {
     protected String registrationPlate;
 
     public Vehicle(String registrationPlate) {
