@@ -1,6 +1,6 @@
 package projects.f5.vehicles_java.models;
 
-class Car extends Vehicle {
+public class Car extends Vehicle {
     public Car(String registrationPlate) {
         super(registrationPlate);
     }

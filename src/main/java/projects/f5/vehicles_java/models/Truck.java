@@ -1,6 +1,6 @@
 package projects.f5.vehicles_java.models;
 
-class Truck extends Vehicle {
+public class Truck extends Vehicle {
 
     private int axles;
 
